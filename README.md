@@ -4,8 +4,8 @@
 
 ## 20260320
 
-- 添加了passwall
-- config 是 Immortalwrt24.10-padavanonly-Cudy-TR3000
+- passwall
+- config 
 
 
 # config配置文件
